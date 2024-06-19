@@ -1,0 +1,9 @@
+Dla czytania znak po znaku
+real	0m0.177s
+user	0m0.099s
+sys	0m0.078s
+
+Dla czytania blokami
+real	0m0.007s
+user	0m0.008s
+sys	0m0.000s
